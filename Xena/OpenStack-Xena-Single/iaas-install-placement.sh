@@ -42,4 +42,4 @@ echo "
 su -s /bin/sh -c "placement-manage db sync" placement
 systemctl restart httpd
 
-echo Done-iass-install-placement
+echo Done-iaas-install-placement

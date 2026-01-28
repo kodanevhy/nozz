@@ -129,4 +129,4 @@ systemctl enable neutron-server.service neutron-openvswitch-agent.service neutro
 systemctl start neutron-server.service neutron-openvswitch-agent.service neutron-dhcp-agent.service neutron-metadata-agent.service neutron-l3-agent.service
 systemctl restart openstack-nova-compute.service
 
-echo Done-iass-install-neutron
+echo Done-iaas-install-neutron

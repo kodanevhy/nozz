@@ -59,4 +59,4 @@ systemctl restart openstack-nova-api.service
 systemctl enable openstack-cinder-api.service openstack-cinder-scheduler.service openstack-cinder-volume.service target.service
 systemctl start openstack-cinder-api.service openstack-cinder-scheduler.service openstack-cinder-volume.service target.service
 
-echo Done-iass-install-cinder
+echo Done-iaas-install-cinder

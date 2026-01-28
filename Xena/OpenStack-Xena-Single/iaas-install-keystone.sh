@@ -47,4 +47,4 @@ export OS_IDENTITY_API_VERSION=3
 export OS_IMAGE_API_VERSION=2
 EOF
 
-echo Done-iass-install-keystone
+echo Done-iaas-install-keystone

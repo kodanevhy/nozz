@@ -69,4 +69,4 @@ yum -y install openstack-selinux python3-openstackclient crudini
 
 printf "\033[35mPlease reboot now\n\033[0m"
 
-echo Done-iass-pre-host
+echo Done-iaas-pre-host

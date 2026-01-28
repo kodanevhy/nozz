@@ -66,4 +66,4 @@ if [ ! -n "$output" ];then
     "
 fi
 
-echo Done-iass-install-mysql
+echo Done-iaas-install-mysql

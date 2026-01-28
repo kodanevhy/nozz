@@ -48,4 +48,4 @@ su -s /bin/sh -c "glance-manage db_sync" glance
 systemctl enable openstack-glance-api.service
 systemctl restart openstack-glance-api.service
 
-echo Done-iass-install-glance
+echo Done-iaas-install-glance

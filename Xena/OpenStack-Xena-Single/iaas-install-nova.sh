@@ -103,4 +103,4 @@ systemctl start \
     libvirtd.service \
     openstack-nova-compute.service
 
-echo Done-iass-install-nova
+echo Done-iaas-install-nova
