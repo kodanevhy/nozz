@@ -58,3 +58,5 @@ crudini --set /etc/nova/nova.conf cinder os_region_name RegionOne
 systemctl restart openstack-nova-api.service
 systemctl enable openstack-cinder-api.service openstack-cinder-scheduler.service openstack-cinder-volume.service target.service
 systemctl start openstack-cinder-api.service openstack-cinder-scheduler.service openstack-cinder-volume.service target.service
+
+echo Done-iass-install-cinder

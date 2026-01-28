@@ -41,3 +41,5 @@ echo "
 # 同步数据库
 su -s /bin/sh -c "placement-manage db sync" placement
 systemctl restart httpd
+
+echo Done-iass-install-placement

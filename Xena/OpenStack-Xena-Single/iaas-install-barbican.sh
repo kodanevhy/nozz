@@ -57,3 +57,5 @@ systemctl enable openstack-barbican-api.service
 systemctl start openstack-barbican-api.service
 systemctl restart openstack-nova-api.service openstack-cinder-volume.service
 systemctl restart httpd.service
+
+echo Done-iass-install-barbican

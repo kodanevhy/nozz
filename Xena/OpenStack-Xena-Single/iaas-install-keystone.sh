@@ -46,3 +46,5 @@ export OS_AUTH_URL=http://$HOST_NAME:5000/v3
 export OS_IDENTITY_API_VERSION=3
 export OS_IMAGE_API_VERSION=2
 EOF
+
+echo Done-iass-install-keystone

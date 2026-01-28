@@ -70,3 +70,5 @@ EOF
 systemctl restart httpd.service memcached.service
 
 printf "\033[35mNow dashboard done, visit at http://HOST_IP/dashboard.\nNOTE: port 6080 may be rejected by your security rules.\n\033[0m"
+
+echo Done-iass-install-dashboard

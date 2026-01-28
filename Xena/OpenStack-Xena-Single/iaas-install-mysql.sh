@@ -65,3 +65,5 @@ if [ ! -n "$output" ];then
     expect eof
     "
 fi
+
+echo Done-iass-install-mysql

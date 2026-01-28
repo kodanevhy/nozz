@@ -102,3 +102,5 @@ systemctl start \
     openstack-nova-novncproxy.service \
     libvirtd.service \
     openstack-nova-compute.service
+
+echo Done-iass-install-nova
